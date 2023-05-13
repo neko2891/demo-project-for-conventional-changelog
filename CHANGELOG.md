@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [1.0.10](https://github.com/neko2891/demo-project-for-conventional-changelog/compare/v1.0.9...v1.0.10) (2023-05-13)
 
+### [1.0.10](https://github.com/neko2891/demo-project-for-conventional-changelog/compare/v1.0.9...v1.0.10) (2023-05-13)
+
 ### [1.0.9](https://github.com/neko2891/demo-project-for-conventional-changelog/compare/v1.0.8...v1.0.9) (2023-05-13)
 
 ### [1.0.8](https://github.com/neko2891/demo-project-for-conventional-changelog/compare/v1.0.7...v1.0.8) (2023-05-13)
@@ -21,5 +23,3 @@ All notable changes to this project will be documented in this file. See [standa
 ### [1.0.2](https://github.com/neko2891/demo-project-for-conventional-changelog/compare/v1.0.1...v1.0.2) (2023-05-13)
 
 ### [1.0.1](https://github.com/neko2891/demo-project-for-conventional-changelog/compare/v1.0.0...v1.0.1) (2023-05-13)
-
-## [1.0.0](https://github.com/neko2891/demo-project-for-conventional-changelog/compare/v1.0.10...v1.0.0) (2023-05-13)
