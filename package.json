@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "xml2js": "^0.5.0"
+  },
+  "name": "your-project",
+  "version": "1.0.12"
+}
