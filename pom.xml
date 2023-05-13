@@ -9,7 +9,7 @@
   </parent>
   <groupId>com.fet</groupId>
   <artifactId>ems</artifactId>
-  <version>1.0.10</version>
+  <version>1.0.11</version>
   <name>ems</name>
   <description>FET EMS</description>
   <properties>
